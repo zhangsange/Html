@@ -351,7 +351,7 @@ class HtmlToSpannedConverter implements ContentHandler {
         int len = text.length();
         text.append("\uFFFC");
 
-        text.setSpan(new ImageSpan(d, src), len, text.length(),
+        text.setSpan(new ImageSpanWithAttr(d, src,attributes), len, text.length(),
                 Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
     }
 

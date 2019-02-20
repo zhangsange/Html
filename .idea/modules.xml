@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/Html.iml" filepath="$PROJECT_DIR$/Html.iml" />
       <module fileurl="file://$PROJECT_DIR$/HtmlDemo.iml" filepath="$PROJECT_DIR$/HtmlDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/html/html.iml" filepath="$PROJECT_DIR$/html/html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html/html-html.iml" filepath="$PROJECT_DIR$/html/html-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/richtext-html.iml" filepath="$PROJECT_DIR$/richtext-html.iml" />
     </modules>
   </component>
 </project>
